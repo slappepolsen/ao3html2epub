@@ -14,7 +14,7 @@ e-books for your e-reader, phone or Kindle, much like AO3's own EPUB downloads u
 
 - Python 3.9 or newer (on a Mac it's usually already there: run `python3 --version` to check.
   On Windows, get it from [python.org](https://www.python.org/downloads/))
-- An AO3 story saved with **Download > HTML** (a work page saved from your browser with **Entire Work** also works)
+- An AO3 story saved with Download > HTML (a work page saved from your browser with **Entire Work** also works)
 - [`html2epub.py`](html2epub.py) from this repository
 
 ## Use
