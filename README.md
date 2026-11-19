@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="IMG_5843.jpeg" alt="ao3html2epub logo" width="480">
+</p>
+
+
 # ao3html2epub
 
 Converts an AO3 fic that you downloaded as HTML into an EPUB.
