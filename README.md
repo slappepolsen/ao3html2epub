@@ -8,18 +8,18 @@ e-books, much like AO3's own EPUB downloads used to be.
 - the title page has the tags, summary, author's notes and a link to the work on AO3
 - the book ends with a link back to the work, so you can find your way back to leave kudos and comments
 
-> **Please do go back and leave kudos and comments on the original fic. Writers love hearing from readers!!!**
+> **Please do go back and leave kudos and comments on the original fic!!!***
+> **Writers love hearing from readers!!!**
 
 ## You need
 
-- Python 3.9 or newer (on a Mac it's usually already there: run `python3 --version` to check.
-  On Windows, get it from [python.org](https://www.python.org/downloads/))
-- An AO3 story saved with Download > HTML (a work page saved from your browser with **Entire Work** also works)
+- Python 3.9 or newer ([how?](https://wiki.python.org/python/getting-started/BeginnersGuide/Download.html))
+- An AO3 story saved with Download > HTML
 - [`html2epub.py`](html2epub.py) from this repository
 
 ## Use
 
-Open a terminal in the folder where you saved `html2epub.py`.
+Open the Terminal app ([how?](https://sindresorhus.com/guides/open-terminal-in-folder-mac#:~:text=In%20Finder,Supercharge%2E)) or Command Prompt ([how?](https://www.aakashg.com/how-to-open-files-in-cmd/#:~:text=Method,pathtofolder)) in the folder where you saved `html2epub.py`.
 
 One story:
 
