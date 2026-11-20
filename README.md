@@ -3,9 +3,7 @@
 </p>
 
 
-# ao3html2epub
-
-Converts an AO3 fic that you downloaded as HTML into an EPUB.
+**ao3html2epub** converts an AO3 fic that you downloaded as HTML into an EPUB.
 
 Since the great outage of October 2026, AO3 only offers downloads as HTML. This script turns those files into
 e-books, much like AO3's own EPUB downloads used to be.
