@@ -11,7 +11,8 @@ e-books, much like AO3's own EPUB downloads used to be.
 - the title page has the tags, summary, author's notes and a link to the work on AO3
 - the book ends with a link back to the work, so you can find your way back to leave kudos and comments
 
-> **Please do go back and leave kudos and comments on the original fic!!!***
+> **Please do go back and leave kudos and comments on the original fic!!!**
+> 
 > **Writers love hearing from readers!!!**
 
 ## You need
