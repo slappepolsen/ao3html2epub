@@ -25,13 +25,13 @@ e-books, much like AO3's own EPUB downloads used to be.
 
 Open the Terminal app ([how?](https://sindresorhus.com/guides/open-terminal-in-folder-mac#:~:text=In%20Finder,Supercharge%2E)) or Command Prompt ([how?](https://www.aakashg.com/how-to-open-files-in-cmd/#:~:text=Method,pathtofolder)) in the folder where you saved `html2epub.py`.
 
-One story:
+One fanfic:
 
 ```
 python3 html2epub.py "My Story.html"
 ```
 
-A whole folder:
+A whole folder with fanfics:
 
 ```
 python3 html2epub.py "my-folder"
